@@ -18,15 +18,15 @@ Portfolio
 --->
 ### Portfolio 📋
 #### Open Source 👐
-##### Web Apps
+##### Web Apps 📱
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-website-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-website-privacy-policy-generator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-malayalam-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-malayalam-privacy-policy-generator)
 
-##### Awesome List
+##### Awesome List 📝
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Freebies-Hub&theme=tokyonight)](https://github.com/zcraber/Freebies-Hub)
 
-##### Fonts
+##### Fonts 🖋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Justins-Script&theme=tokyonight)](https://github.com/zcraber/Justins-Script)
 
 <!---
