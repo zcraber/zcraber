@@ -61,6 +61,7 @@ Here are the amazing technologies I'm experienced with or currently learning:
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![image](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
 ![image](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![image](https://img.shields.io/badge/penpot-000000.svg?style=for-the-badge&logo=penpot&logoColor=white)
 
 #### Video/Audio Editing ✂
 ![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
