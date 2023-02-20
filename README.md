@@ -26,6 +26,9 @@ Portfolio
 ##### Awesome List
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Freebies-Hub&theme=tokyonight)](https://github.com/zcraber/Freebies-Hub)
 
+##### Fonts
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Justins-Script&theme=tokyonight)](https://github.com/zcraber/Justins-Script)
+
 <!---
 Tech Stack
 --->
