@@ -3,7 +3,8 @@ Intro.
 --->
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=zcraber.visitor-badge)
 ## Hi, I’m Joseph aka @zcraber! 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Joseph-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephvm/)](https://www.linkedin.com/in/josephvm/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephvm/)](https://www.linkedin.com/in/josephvm/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/josephvm/)](https://www.behance.net/josephvm)
 
 <!---
 Brief bio.
