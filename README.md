@@ -29,7 +29,7 @@ My open source contributions. 👐
 #### Localization 🔊
 Projects I've contributed as a Malayalam translator.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marchellodev&repo=sharik&theme=tokyonight)](https://github.com/digitalmalayali/marchellodev/sharik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marchellodev&repo=sharik&theme=tokyonight)](https://github.com//marchellodev/sharik)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=pappadam&theme=tokyonight)](https://github.com/digitalmalayali/pappadam)
 
