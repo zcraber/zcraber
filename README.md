@@ -70,22 +70,23 @@ Here are the amazing technologies I'm experienced with or currently learning:
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![image](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
-![image](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![image](https://img.shields.io/badge/affinitypublisher-%C9284D.svg?style=for-the-badge&logo=affinity-publisher&logoColor=white)
+![image](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity%20photo&logoColor=white)
+![image](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity%20designer&logoColor=white)
+![image](https://img.shields.io/badge/affinity%20publisher-%C9284D.svg?style=for-the-badge&logo=affinity%20publisher&logoColor=white)
 ![image](https://img.shields.io/badge/penpot-000000.svg?style=for-the-badge&logo=penpot&logoColor=white)
 ![image](https://img.shields.io/badge/fontforge-F2712B.svg?style=for-the-badge&logo=fontforge&logoColor=white)
 
 #### Video/Audio Editing ✂
 ![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![image](https://img.shields.io/badge/AdobeAudition-9999FF?style=for-the-badge&logo=AdobeAudition&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 ![image](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![image](https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=Kdenlive&logoColor=white)
 
 #### OS 💻
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 <!---
 Stats
 --->
