@@ -36,6 +36,8 @@ Projects I've contributed as a Malayalam translator.
 #### Awesome List 📝
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Freebies-Hub&theme=tokyonight)](https://github.com/zcraber/Freebies-Hub)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=powered-by-azuracast&theme=tokyonight)](https://github.com/zcraber/powered-by-azuracast)
+
 #### Fonts 🖋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Justins-Script&theme=tokyonight)](https://github.com/zcraber/Justins-Script)
 
