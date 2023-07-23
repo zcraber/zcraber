@@ -84,6 +84,7 @@ Here are the amazing technologies I'm experienced with or currently learning:
 ![image](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 ![image](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![image](https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=Kdenlive&logoColor=white)
+![image](https://img.shields.io/badge/Subtitle%20Edit-CC2424?style=for-the-badge&logo=Kdenlive&logoColor=white)
 
 #### OS 💻
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
