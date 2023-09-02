@@ -19,12 +19,15 @@ Portfolio
 --->
 ### Portfolio 📋
 
-My open source contributions. 👐
+My open-source contributions. 👐
 
 #### Web Apps 📱
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-website-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-website-privacy-policy-generator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-malayalam-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-malayalam-privacy-policy-generator)
+
+#### Web Templates 📒
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=linkhub&theme=tokyonight)](https://github.com//digitalmalayali/linkhub)
 
 #### Localization 🔊
 Projects I've contributed as a Malayalam translator.
