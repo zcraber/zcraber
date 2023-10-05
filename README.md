@@ -27,6 +27,9 @@ My open-source contributions. 👐
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-malayalam-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-malayalam-privacy-policy-generator)
 
+#### Jekyll Themes 🎨
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=linkhub-jekyll-theme&theme=tokyonight)](https://github.com/digitalmalayali/linkhub-jekyll-theme)
+
 #### Web Templates 📒
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=linkhub&theme=tokyonight)](https://github.com//digitalmalayali/linkhub)
 
