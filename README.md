@@ -67,6 +67,8 @@ Here are the amazing technologies I'm experienced with or currently learning:
 #### CMS 🌐
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 ![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![image](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+![image](https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white)
 
 #### SSG 🏗️
 ![image](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
