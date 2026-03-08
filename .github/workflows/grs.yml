@@ -47,7 +47,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: uusername=marchellodev&repo=sharik&theme=tokyonight
+          options: username=marchellodev&repo=sharik&theme=tokyonight
           path: profile/sharik.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
