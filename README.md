@@ -23,29 +23,27 @@ Portfolio
 Below are my open-source contributions.
 
 #### Web Apps
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-website-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-website-privacy-policy-generator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-malayalam-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-malayalam-privacy-policy-generator)
+[![Pinned](./profile/privacy-policy-generator.svg)](https://github.com/digitalmalayali/free-website-privacy-policy-generator)
 
 #### Themes & Templates
-![Pinned](./profile/linkhub-jekyll-theme.svg)(https://github.com/digitalmalayali/linkhub-jekyll-theme)
+[![Pinned](./profile/linkhub-jekyll-theme.svg)](https://github.com/digitalmalayali/linkhub-jekyll-theme)
 
-![Pinned](./profile/unstruction-wordpress-theme.svg)(https://github.com/digitalmalayalistudio/unstruction-wordpress-theme)
+[![Pinned](./profile/unstruction-wordpress-theme.svg)](https://github.com/digitalmalayalistudio/unstruction-wordpress-theme)
 
 #### Localization
 Projects I've contributed as a Malayalam translator.
 
-![Pinned](./profile/sharik.svg)(https://github.com//marchellodev/sharik)
+[![Pinned](./profile/sharik.svg)](https://github.com//marchellodev/sharik)
 
-![Pinned](./profile/pappadam.svg)(https://github.com/digitalmalayali/pappadam)
+[![Pinned](./profile/pappadam.svg)](https://github.com/digitalmalayali/pappadam)
 
 #### Awesome List
-![Pinned](./profile/Freebies-Hub.svg)(https://github.com/zcraber/Freebies-Hub)
+[![Pinned](./profile/Freebies-Hub.svg)](https://github.com/zcraber/Freebies-Hub)
 
-![Pinned](./profile/powered-by-azuracast.svg)(https://github.com/zcraber/powered-by-azuracast)
+[![Pinned](./profile/powered-by-azuracast.svg)](https://github.com/zcraber/powered-by-azuracast)
 
 #### Fonts
-![Pinned](./profile/Justins-Script.svg)(https://github.com/zcraber/Justins-Script)
+[![Pinned](./profile/Justins-Script.svg)](https://github.com/zcraber/Justins-Script)
 
 <!---
 Tech Stack
