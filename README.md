@@ -10,7 +10,7 @@ Intro.
 <!---
 Brief bio.
 --->
-### About me 🙂
+### About me
 - 🎨 Graphic designer, translator & subtitler by profession.
 - 🌱 Currently, learning web development and design.
 - 💛 Love reading fiction, watching movies and football.
@@ -18,72 +18,73 @@ Brief bio.
 <!---
 Portfolio
 --->
-### Portfolio 📋
+### Portfolio
 
-My open-source contributions. 👐
+Below are my open-source contributions.
 
-#### Web Apps 📱
+#### Web Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-website-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-website-privacy-policy-generator)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=free-malayalam-privacy-policy-generator&theme=tokyonight)](https://github.com/digitalmalayali/free-malayalam-privacy-policy-generator)
 
-#### Jekyll Themes 🎨
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=linkhub-jekyll-theme&theme=tokyonight)](https://github.com/digitalmalayali/linkhub-jekyll-theme)
+#### Themes & Templates
+![Pinned](./profile/linkhub-jekyll-theme.svg)(https://github.com/digitalmalayali/linkhub-jekyll-theme)
 
-#### Web Templates 📒
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=linkhub&theme=tokyonight)](https://github.com//digitalmalayali/linkhub)
+![Pinned](./profile/unstruction-wordpress-theme.svg)(https://github.com/digitalmalayalistudio/unstruction-wordpress-theme)
 
-#### Localization 🔊
+#### Localization
 Projects I've contributed as a Malayalam translator.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marchellodev&repo=sharik&theme=tokyonight)](https://github.com//marchellodev/sharik)
+![Pinned](./profile/sharik.svg)(https://github.com//marchellodev/sharik)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=digitalmalayali&repo=pappadam&theme=tokyonight)](https://github.com/digitalmalayali/pappadam)
+![Pinned](./profile/pappadam.svg)(https://github.com/digitalmalayali/pappadam)
 
-#### Awesome List 📝
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Freebies-Hub&theme=tokyonight)](https://github.com/zcraber/Freebies-Hub)
+#### Awesome List
+![Pinned](./profile/Freebies-Hub.svg)(https://github.com/zcraber/Freebies-Hub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=powered-by-azuracast&theme=tokyonight)](https://github.com/zcraber/powered-by-azuracast)
+![Pinned](./profile/powered-by-azuracast.svg)(https://github.com/zcraber/powered-by-azuracast)
 
-#### Fonts 🖋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcraber&repo=Justins-Script&theme=tokyonight)](https://github.com/zcraber/Justins-Script)
+#### Fonts
+![Pinned](./profile/Justins-Script.svg)(https://github.com/zcraber/Justins-Script)
 
 <!---
 Tech Stack
 --->
-### Tech Stack ⭐
+### Tech Stack 
 Here are the amazing technologies I'm experienced with or currently learning:
 
-#### Languages 👩‍💻
+#### Languages
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-#### IDE 🖥
+#### IDE
 ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-#### CMS 🌐
+#### CMS
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 ![image](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 ![image](https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white)
+![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
-#### SSG 🏗️
+#### SSG
 ![image](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
+![image](https://img.shields.io/badge/eleventy-222222?style=for-the-badge&logo=Jekyll&logoColor=white)
 
 #### Hosting Panels
 ![image](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
-#### Libraries & Frameworks 🛠
+#### Libraries & Frameworks
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![image](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 ![image](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
 
-#### Design & Photo Editing 🖼
+#### Design & Photo Editing
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -93,7 +94,7 @@ Here are the amazing technologies I'm experienced with or currently learning:
 ![image](https://img.shields.io/badge/penpot-000000.svg?style=for-the-badge&logo=penpot&logoColor=white)
 ![image](https://img.shields.io/badge/fontforge-F2712B.svg?style=for-the-badge&logo=fontforge&logoColor=white)
 
-#### Video/Audio Editing ✂
+#### Video/Audio Editing
 ![image](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![image](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
@@ -101,11 +102,11 @@ Here are the amazing technologies I'm experienced with or currently learning:
 ![image](https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=Kdenlive&logoColor=white)
 ![image](https://img.shields.io/badge/Subtitle%20Edit-CC2424?style=for-the-badge&logo=Kdenlive&logoColor=white)
 
-#### OS 💻
+#### OS
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 <!---
 Stats
 --->
-![zcraber's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcraber&theme=tokyonight&show_icons=true)
+![Stats](./profile/stats.svg)
