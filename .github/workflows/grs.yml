@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=digitalmalayali&free-website-privacy-policy-generator&theme=tokyonight
+          options: username=digitalmalayali&repo=free-website-privacy-policy-generator&theme=tokyonight
           path: profile/privacy-policy-generator.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
