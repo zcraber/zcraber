@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Curated list of some super-useful but not-so-popular</tspan><tspan dy="1.2em" x="25">websites which offer FREE images, vectors, videos, music,</tspan><tspan dy="1.2em" x="25">templates etc.</tspan>
+      <tspan dy="1.2em" x="25">Curated list of some super-useful but not-so-popular</tspan><tspan dy="1.2em" x="25">websites which offer FREE downloadables like images,</tspan><tspan dy="1.2em" x="25">vectors, videos, music, templates etc.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
