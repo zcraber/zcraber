@@ -5,7 +5,7 @@ Intro.
 ## Hi, I’m Joseph aka @zcraber! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPgoJPHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMC40NyAySDMuNTNhMS40NSAxLjQ1IDAgMCAwLTEuNDcgMS40M3YxNy4xNEExLjQ1IDEuNDUgMCAwIDAgMy41MyAyMmgxNi45NGExLjQ1IDEuNDUgMCAwIDAgMS40Ny0xLjQzVjMuNDNBMS40NSAxLjQ1IDAgMCAwIDIwLjQ3IDJNOC4wOSAxOC43NGgtM3YtOWgzWk02LjU5IDguNDhhMS41NiAxLjU2IDAgMSAxIDAtMy4xMmExLjU3IDEuNTcgMCAxIDEgMCAzLjEybTEyLjMyIDEwLjI2aC0zdi00LjgzYzAtMS4yMS0uNDMtMi0xLjUyLTJBMS42NSAxLjY1IDAgMCAwIDEyLjg1IDEzYTIgMiAwIDAgMC0uMS43M3Y1aC0zdi05aDNWMTFhMyAzIDAgMCAxIDIuNzEtMS41YzIgMCAzLjQ1IDEuMjkgMy40NSA0LjA2WiIgLz4KPC9zdmc+Cg==&logoColor=white)](https://www.linkedin.com/in/josephvm/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/josephvm)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=square&logo=Instagram&logoColor=white)](https://www.instagram.com/designerjoseph/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/designerjoseph/)
 
 <!---
 Brief bio.
