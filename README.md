@@ -12,7 +12,7 @@ Brief bio.
 --->
 ### About me
 - 🎨 Graphic designer, translator & subtitler by profession.
-- 🌱 Currently, learning web development and design.
+- 🌱 Learning web development.
 - 💛 Love reading fiction, watching movies and football.
 
 <!---
